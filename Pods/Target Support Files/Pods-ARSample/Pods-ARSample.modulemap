@@ -1,0 +1,6 @@
+framework module Pods_ARSample {
+  umbrella header "Pods-ARSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
